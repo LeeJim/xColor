@@ -1,0 +1,24 @@
+{
+  "name": "xcolor",
+  "version": "1.0.0",
+  "description": "color format utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeJim/xColor.git"
+  },
+  "keywords": [
+    "color",
+    "format",
+    "leejim"
+  ],
+  "author": "Pete Qiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeJim/xColor/issues"
+  },
+  "homepage": "https://github.com/LeeJim/xColor#readme"
+}
